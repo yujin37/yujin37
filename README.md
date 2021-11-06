@@ -19,4 +19,5 @@ MySQL-#CC2927?style=flat-square&logo=MySQL&logoColor=white"/></a>
 - 📫 How to reach me: yj061628@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37 &theme=default&show_icons=true)
+
