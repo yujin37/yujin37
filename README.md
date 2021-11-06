@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on sangmyung university
+- 🔭 I’m currently working on ...
+<a href="https://developer.python.com" target="_blank"><img src="https://img.shields.io/badge/
+Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 - 🌱 I’m currently learning programming language(c, python,SQL)
 - 👯 I’m looking to collaborate on data analysis
 - 🤔 I’m looking for help with good programmer
