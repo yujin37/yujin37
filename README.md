@@ -1,7 +1,7 @@
 ### Hi I'm Yujin Choi 👋
 
 - 🌱 I’m currently learning programming language(c, python,SQL)
-- 👯 I’m looking to collaborate on data analysis
+- 👯 I want to be a data engineer. So if I do well, I want to collaborate with other people.
 - 📫 How to reach me: yj061628@gmail.com
 <br>
 <pre>
