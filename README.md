@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
-
+<br>
+<hr>
+<h3> 커밋 기록 </h3>
 <br>
 
 |Index|Month|Commit 수(삭제제외)|
@@ -22,6 +24,19 @@
 |2|2022.1|83|
 |3|2022.2|33|
 |4|2022.3|ing
+
+<br>
+<hr>
+<h3>활동기록</h3>
+<br>
+
+|Index|Activity|Date|
+|------|---|---|
+|1|CodeCure(교내)|2020.3~|
+|2|GDSC Sangmyung|2021.9~2022.8|
+|3|SVSTIP(SW중심대학사업단)|2022.1.26~2.18|
+|4|SCV(교내)|2022.3~
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
