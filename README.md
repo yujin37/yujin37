@@ -6,9 +6,21 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-index | Month | Commit Count(22.3월부터)
------ | ----- | -----
-1 | 2022-03 | ~ing
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+</p>
+
+<br>
+
+|Index|Month|Commit 수|
+|------|---|---|
+|1|~2022.2||
+|2|2022.3|ing
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
