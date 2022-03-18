@@ -11,5 +11,5 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-CC2927?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </pre>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox_light&show_icons=true)
 
