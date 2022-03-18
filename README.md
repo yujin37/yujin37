@@ -1,15 +1,14 @@
-### Hi I'm Yujin Choi 👋
-
-- 🌱 I’m currently learning programming language(c, python,SQL)
-- 👯 I want to be a data engineer. So if I do well, I want to collaborate with other people.
-- 📫 How to reach me: yj061628@gmail.com
-<br>
-<pre>
-- 🔭 I’m currently working on ...
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-CC2927?style=flat-square&logo=MySQL&logoColor=white"/></a>
-</pre>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=50)
+# Yujin Choi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&theme=gruvbox_light&show_icons=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+index | Month | Commit Count(22.3월부터)
+----- | ----- | -----
+1 | 2022-03 | ~ing
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
