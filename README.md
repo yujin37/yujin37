@@ -16,10 +16,12 @@
 
 <br>
 
-|Index|Month|Commit 수|
+|Index|Month|Commit 수(삭제제외)|
 |------|---|---|
-|1|~2022.2||
-|2|2022.3|ing
+|1|2021.12|16|
+|2|2022.1|83|
+|3|2022.2|33|
+|4|2022.3|ing
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
