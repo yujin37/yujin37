@@ -30,12 +30,12 @@
 <h3>활동기록</h3>
 <br>
 
-|Index|Activity|Date|
-|------|---|---|
-|1|CodeCure(교내)|2020.3~|
-|2|GDSC Sangmyung|2021.9~2022.8|
-|3|SVSTIP(SW중심대학사업단)|2022.1.26~2.18|
-|4|SCV(교내)|2022.3~
+|Index|Activity|Type|Date|
+|------|---|---|---|
+|1|CodeCure|교내 중앙동아리|2020.3~|
+|2|GDSC Sangmyung|GDSC|2021.9~2022.8|
+|3|SVSTIP(온라인 해외연수)|교내 SW중심대학사업단|2022.1.26~2.18|
+|4|SCV|교내 과동아리|2022.3~
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
