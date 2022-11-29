@@ -1,10 +1,9 @@
 
 # Yujin Choi
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin37%2Fhit-counter&count_bg=%23FFD2FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&theme=gruvbox_light&show_icons=true) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
 
@@ -31,10 +30,3 @@
 <a href="https://clever-germanium-cb9.notion.site/My-Recording-01f98f00cfa84e998816d1616e6cfcea" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </div>
-
-
-
-
-
-
-
