@@ -54,7 +54,7 @@ Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, 
 |Name|Type|Date|
 |:---:|:---:|:---:|
 |Metaverse Contest|Zepeto|2021.12|
-|SVSTIP|SW univ. Program|2022.2.18|
-|SW univ. Hackathon 2022|Korea Information Processing Society President|2022.6.24|
+|SVSTIP 3rd|SW univ. Program|2022.2.18|
+|SW univ. Hackathon 2022 Special Prize|Korea Information Processing Society President|2022.6.24|
     
 
