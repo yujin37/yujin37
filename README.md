@@ -1,32 +1,63 @@
 
 # Yujin Choi
 
+Hello, I'm Yujin Choi. I'm a Software Student in University
 
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=solarized-light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-
-
-<h3><b>🛠️ Tech Stack-Use Well 🛠</b></h3>
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-
-
-<h3><b>🔩 Tech Stack-Experienced 🔩</b></h3>
-<br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<h3> <b>🔗Contact🔗</b> </h3>
+## Contact📞
+    
 <a href="mailto:yj061628@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj061628@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj061628@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://yujinni-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-9370DB?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://yujinni-coding.tistory.com/"/></a>
 <a href="https://clever-germanium-cb9.notion.site/My-Recording-01f98f00cfa84e998816d1616e6cfcea" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-</div>
+<br>
+<br>
+
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=solarized-light)
+
+## Interests
+* DataBase
+* Data Processing
+* NLP 
+
+
+##  Tech Stack-Use Well 🛠
+
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<br>
+
+##  Tech Stack-Experienced 🔩
+
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+<br>
+
+## Club activity 🕯
+
+|Name|Type|Date|
+|:---:|:---:|:---:|
+|CodeCure|Information Security|2020.3~2023.2|
+|GDSC|Devlopment&Design Project|2021.9~2022.8|
+|SCV|Algorithm Study|2022.3~ now|
+
+
+## Activity 🔎
+
+|Name|Type|Date|
+|:---:|:---:|:---:|
+|Data Reporter|Publicity Activities|2020.7~12|
+|AI basic Coaching Study|Naver Boost Camp|2022.1~2|
+|SVSTIP|SW univ. Program|2022.1.24~2.18|
+|SW univ. Hackathon 2022|Hackaton|2022.6.22~24|
+
+
+## Award 🏆
+    
+|Name|Type|Date|
+|:---:|:---:|:---:|
+|Metaverse Contest|Zepeto|2021.12|
+|SVSTIP|SW univ. Program|2022.2.18|
+|SW univ. Hackathon 2022|Korea Information Processing Society President|2022.6.24|
+    
+
