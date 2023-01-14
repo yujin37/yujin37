@@ -11,7 +11,7 @@ Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, 
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj061628@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://yujinni-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-9370DB?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://yujinni-coding.tistory.com/"/></a>
-<a href="https://clever-germanium-cb9.notion.site/My-Recording-01f98f00cfa84e998816d1616e6cfcea" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://clever-germanium-cb9.notion.site/6fa36e0cb88942eaa18b86f0c179eb4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## Interests
 * DataBase
