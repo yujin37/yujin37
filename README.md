@@ -1,7 +1,9 @@
 
 # Yujin Choi
 
-Hello, I'm Yujin Choi. I'm a Software Student in University
+Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, please contact yj061628@gmail.com.
+
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=solarized-light)
 
 ## Contact📞
     
@@ -10,11 +12,6 @@ Hello, I'm Yujin Choi. I'm a Software Student in University
 </a>
 <a href="https://yujinni-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-9370DB?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://yujinni-coding.tistory.com/"/></a>
 <a href="https://clever-germanium-cb9.notion.site/My-Recording-01f98f00cfa84e998816d1616e6cfcea" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-<br>
-<br>
-
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=solarized-light)
 
 ## Interests
 * DataBase
