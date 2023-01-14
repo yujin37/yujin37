@@ -45,16 +45,16 @@ Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, 
 |:---:|:---:|:---:|
 |Data Reporter|Publicity Activities|2020.7~12|
 |AI basic Coaching Study|Naver Boost Camp|2022.1~2|
-|SVSTIP|SW univ. Program|2022.1.24~2.18|
-|SW univ. Hackathon 2022|Hackaton|2022.6.22~24|
+|SVSTIP|SW Univ. Program|2022.1.24~2.18|
+|SW Univ. Hackathon 2022|Hackaton|2022.6.22~24|
 
 
 ## Award 🏆
     
-|Name|Type|Date|
-|:---:|:---:|:---:|
-|Metaverse Contest|Zepeto|2021.12|
-|SVSTIP 3rd|SW univ. Program|2022.2.18|
-|SW univ. Hackathon 2022 Special Prize|Korea Information Processing Society President|2022.6.24|
+|Name|Award Name|Type|Date|
+|:---:|:---:|:---:|:---:|
+|Metaverse Contest|Prize of Excellence|Zepeto|2021.12|
+|SVSTIP|3rd place out of 6 teams|SW Univ. Program|2022.2.18|
+|SW univ. Hackathon 2022|Special Prize(Korea Information Processing Society President)|SW Univ. Hackathon|2022.6.24|
     
 
