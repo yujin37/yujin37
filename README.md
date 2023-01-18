@@ -3,7 +3,8 @@
 
 Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, please contact yj061628@gmail.com.
 
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=solarized-light)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
 
 ## Contact📞
     
@@ -30,14 +31,12 @@ Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <br>
 
-## Club activity 🕯
+##  Activity 🕯
 
 |Name|Type|Date|
 |:---:|:---:|:---:|
-|CodeCure|Information Security|2020.3~2023.2|
-|GDSC|Devlopment&Design Project|2021.9~2022.8|
-|SCV|Algorithm Study|2022.3~ now|
-
-
-
-
+|CodeCure|Information Security (Club)|2020.3~2023.2|
+|GDSC|Devlopment&Design (Club)|2021.9~2022.8|
+|SVSTIP(동계SW 온라인 해외연수)|SW univ. Program|2022.1.24~2.18|
+|SCV|Algorithm Study (Club)|2022.3~ now|
+|SW univ. Hackathon 2022|SW univ. Hackathon|2022.6.22~24|
