@@ -40,3 +40,4 @@ Hello, I'm Yujin Choi. I'm a Software Student. Do you have any question for me, 
 |SVSTIP(동계SW 온라인 해외연수)|SW univ. Program|2022.1.24~2.18|
 |SCV|Algorithm Study (Club)|2022.3~ now|
 |SW univ. Hackathon 2022|SW univ. Hackathon|2022.6.22~24|
+|DEVOCEAN YOUNG 2nd|SK Telecom|2023.3~11|
