@@ -27,10 +27,10 @@
 |:---:|:---:|:---:|
 |CodeCure|Information Security (Club)|2020.3~2023.2|
 |GDSC|Devlopment&Design (Club)|2021.9~2022.8|
-|SVSTIP(동계SW 온라인 해외연수)|SW univ. Program|2022.1.24~2.18|
+|SVSTIP(동계SW 온라인 해외연수)|SW univ. Program|2022.1.24~2022.2.18|
 |SCV|Algorithm Study (Club)|2022.3~ now|
-|SW univ. Hackathon 2022|SW univ. Hackathon|2022.6.22~24|
-|DEVOCEAN YOUNG 2nd|SK Telecom|2023.3~11|
+|SW univ. Hackathon 2022|SW univ. Hackathon|2022.6.22~2022.6.24|
+|DEVOCEAN YOUNG 2nd|SK Telecom|2023.3~2023.11|
 
 ## Contact📞
     
