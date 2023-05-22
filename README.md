@@ -1,13 +1,13 @@
 
 # Yujin Choi
-
+## My Stats
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=gruvbox)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
 
 ## Interests
-* DataBase
 * Data Processing
-* NLP 
+* App Programming
 
 
 ##  Tech Stack-Use Well 🛠
@@ -18,7 +18,7 @@
 
 ##  Tech Stack-Experienced 🔩
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <br>
 
 ##  Activity 🕯
