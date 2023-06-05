@@ -5,11 +5,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
 
-## Interests
-* Data Processing
-* App Programming
-
-
 ##  Tech Stack-Use Well 🛠
 
 
@@ -22,20 +17,20 @@
 <br>
 
 ##  Activity 🕯
-
-|Name|Type|Date|
+|이름|종류|활동일|
 |:---:|:---:|:---:|
-|CodeCure|Information Security (Club)|2020.3~2023.2|
-|GDSC|Devlopment&Design (Club)|2021.9~2022.8|
-|SVSTIP(동계SW 온라인 해외연수)|SW univ. Program|2022.1.24~2022.2.18|
-|SCV|Algorithm Study (Club)|2022.3~ now|
-|SW univ. Hackathon 2022|SW univ. Hackathon|2022.6.22~2022.6.24|
+|CodeCure|교내 정보보안 동아리|2020.3~2023.2|
+|GDSC Sangmyung|GDSC(Google Development Student Club)|2021.9~2022.8|
+|SVSTIP(동계SW 온라인 해외연수)|SW중심대학 프로그램|2022.1.24~2022.2.18|
+|SCV|알고리즘 스터디 과동아리|2022.3~ now|
+|SW중심대학 공동 해커톤 2022|SW중심대학 프로그램|2022.6.22~2022.6.24|
 |DEVOCEAN YOUNG 2nd|SK Telecom|2023.3~2023.11|
+## Award 🏆
+|이름|역할|수상일|
+|:---:|:---:|:---:|
+|메타버스 콘테스트 1회|제페토를 이용한 빅데이터 분야 메타버스 구현|2021.12|
+|SW중심대학 공동해커톤 2022|휠체어 사용자를 위한 외출보조 앱 AI&Backend 개발|2022.6|
 
 ## Contact📞
     
-<a href="mailto:yj061628@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj061628@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://yujinni-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-9370DB?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://yujinni-coding.tistory.com/"/></a>
-<a href="https://clever-germanium-cb9.notion.site/6fa36e0cb88942eaa18b86f0c179eb4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="mailto:yj061628@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj061628@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@abby0616" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <a href="https://clever-germanium-cb9.notion.site/6fa36e0cb88942eaa18b86f0c179eb4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
