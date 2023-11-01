@@ -4,7 +4,7 @@
 ![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin37&show_icons=true&theme=gruvbox)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37&layout=compact)
 ## 🛠 Tech Stack   
 ### Studying 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=flat&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
